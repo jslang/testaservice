@@ -9,9 +9,8 @@ import (
 	"path"
 	"testing"
 
-	"jslang/testaservice"
-
 	"github.com/brianvoe/gofakeit"
+	"github.com/jslang/testaservice"
 	"github.com/stretchr/testify/require"
 )
 
